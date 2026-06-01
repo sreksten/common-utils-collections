@@ -6,6 +6,8 @@ This subpackage addresses the following needs:
 
 ## Priority-aware deques and thread-safe LRU cache.
 
+It also adds a generic Holder class that can - well - hold a generic object.
+
 The following classes are provided to address these needs:
 
 ### `PriorityDeque<T>` (interface)
